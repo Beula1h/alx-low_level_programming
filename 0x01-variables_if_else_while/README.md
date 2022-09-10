@@ -15,3 +15,8 @@ Finished this source code.
 Changes the value that is stored each time the application is run.
 
 Prints the string Last digit of [number] is [last digit] and greater than 5 if the digit is greater than 5, zero if the digit is zero, or less than six and not 0 if the digit is less than six and not 0. 
+
+## 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+  2-print_alphabet.c: C program that prints the alphabet in lowercase, followed by a new line, using only the putchar function exactly twice.
+
+
